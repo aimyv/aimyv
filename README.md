@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+There!+I'm+Aimy+💃🏾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+There!+I'm+Aimy+😊)](https://git.io/typing-svg)
 
 - 🌱 I’m currently working on developing my skills as a Full Stack Developer
 - 👩🏾‍🎓 BSc Computer Science (Hons) from the University of Bath
