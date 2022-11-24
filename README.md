@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently developing my skillset as a Fullstack Developer
 - 👩🏾‍🎓 BSc Computer Science (Hons) from the University of Bath
+- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/aimy-varghese/
 
 <!--
 **aimyv/aimyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
