@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+there!+I'm+Aimy+😊)](https://git.io/typing-svg)
 
 - 🌱 I’m currently developing my skills as a Full-Stack Developer on the futureproof program
-- 💻 Tech Stack: HTML, CSS (Bootstrap), JS (React, Redux, Node.js, Express.js), Python (Flask, Django, Scikit-learn, Numpy, Pandas), Haskell, C, Java
+- 💻 Tech Stack: HTML, CSS (Bootstrap), JS (React, Redux, Node.js, Express.js), Python (Flask, Django, Scikit-learn, Numpy, Pandas), PostgreSQL, MongoDB, Haskell, C, Java
 - 👩🏾‍🎓 I graduated wth honours from the University of Bath with a BSc in Computer Science
-- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/aimy-varghese/
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aimy-varghese/)
+- 👀 See my [portfolio](https://aimyvarghese.netlify.app/)
 
 <!--
 **aimyv/aimyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
