@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+There!+I'm+Aimy+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+there!+I'm+Aimy+😊)](https://git.io/typing-svg)
 
-- 🌱 I’m currently developing my skillset as a Fullstack Developer
-- 👩🏾‍🎓 BSc Computer Science (Hons) from the University of Bath
+- 🌱 I’m currently developing my skills as a Full-Stack Developer on the futureproof program
+- 💻 Tech Stack: HTML, CSS (Bootstrap), JS (React, Redux, NodeJS, Express.js), Python (Flask, Django, Scikit-learn, Numpy, Pandas), Haskell, C, Java
+- 👩🏾‍🎓 I graduated wth honours from the University of Bath with a BSc in Computer Science
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/aimy-varghese/
 
 <!--
