@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently developing my skills as a Full-Stack Developer on the futureproof program
 
-- 💻 Tech Stack: HTML, CSS (Bootstrap), JS (React, Redux, Node.js, Express.js), Python (Flask, Django, Scikit-learn, Numpy, Pandas), PostgreSQL, MongoDB, Haskell, C, Java
+- 💻 Tech Stack: HTML, CSS (Bootstrap), JavaScript (React, Redux, Node, Express), Python (Flask, Django, Scikit-learn, Numpy, Pandas), PostgreSQL, SQLAlchemy, MongoDB, Haskell, C, Java
 
-- 👩🏾‍🎓 I graduated wth honours from the University of Bath with a BSc in Computer Science
+- 👩🏾‍🎓 I graduated with honours from the University of Bath with a BSc in Computer Science
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aimy-varghese/)
 
