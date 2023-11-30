@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+there!+I'm+Aimy+😊)](https://git.io/typing-svg)
 
-- 🌱 I’m currently developing my skills as a Full-Stack Developer on the futureproof program
+- 🌱 I’m developing my skills as a Frontend Developer at reg-1 and a Full-Stack Developer at teamculture.ai
 
-- 💻 Tech Stack: HTML, CSS (Bootstrap), JavaScript (React, Redux, Node, Express), Python (Flask, Django, Scikit-learn, Numpy, Pandas), PostgreSQL, SQLAlchemy, MongoDB, Haskell, C, Java
+- 💻 Tech Stack: HTML, CSS, JavaScript (React.js, Next.js, Express.js), Python (Flask, Django), PostgreSQL, SQLAlchemy, Haskell, C, Java
 
 - 👩🏾‍🎓 I graduated with honours from the University of Bath with a BSc in Computer Science
 
