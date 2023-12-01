@@ -2,7 +2,7 @@
 
 - 🌱 I’m developing my skills as a Frontend Developer at reg-1 and a Full-Stack Developer at teamculture.ai
 
-- 💻 Tech Stack: HTML, CSS, JavaScript (React.js, Next.js, Express.js), Python (Flask, Django), PostgreSQL, SQLAlchemy, Haskell, C, Java
+- 💻 Tech Stack: HTML, CSS, JavaScript (React.js, Next.js, Express.js), TypeScript, Python (Flask, Django), PostgreSQL, SQLAlchemy, Haskell
 
 - 👩🏾‍🎓 I graduated with honours from the University of Bath with a BSc in Computer Science
 
