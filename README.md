@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AD764&width=435&height=35&lines=Hi+there!+I'm+Aimy+😊)](https://git.io/typing-svg)
 
-- 💼 I'm a Full Stack Developer at [REG-1](https://www.reg-1.com/)
+- 💼 I'm a Frontend Developer at [Line-Up](https://lineupnow.com/)
 
 - 💻 Tech Stack: HTML, CSS (styled-components, tailwind), JavaScript/ TypeScript (React, Next), Tanstack Query, Python (Flask), SQL
 
